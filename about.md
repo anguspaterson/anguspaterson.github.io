@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Whatup Fools!
+ABOOUT TIME I HAD A NEW BLOG
 
 Here is a message for ya to check!
 
