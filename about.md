@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-ABOOUT TIME I HAD A NEW BLOG
+ABOUT TIME I HAD A NEW BLOG
 
 Here is a message for ya to check!
 
